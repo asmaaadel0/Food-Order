@@ -4,8 +4,8 @@
   left: 0;
   width: 100%;
   height: 5rem;
-  background-color: #9c3d61;
-  color: white;
+  background-color: white;
+  color: rgb(0, 0, 0);
   display: flex;
   justify-content: space-between;
   align-items: center;
