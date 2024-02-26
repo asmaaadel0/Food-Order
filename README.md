@@ -23,7 +23,7 @@ The "Food Order" application allows users to perform the following actions:
 
 ## How to Use <a name = "How-to-Use"></a>
 
-- Clone the repository: `git clone https://github.com/asmaaadel0/Investment-Calculator.git`
+- Clone the repository: `git clone https://github.com/asmaaadel0/Food-Order.git`
 - Install dependencies: `npm install`
 - Start the development server: `npm start`
 - Open your browser and visit: `http://localhost:3000`
